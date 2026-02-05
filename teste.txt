@@ -1,0 +1,1 @@
+Meu primeiro upload para o S3 com Python 🚀
